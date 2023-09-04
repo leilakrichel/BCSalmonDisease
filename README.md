@@ -18,3 +18,4 @@ Here is a quick rundown of how this repo is organized:
 ## Figure 3 ##
 
 - `CK_TotalRun_Final.csv` : South Thompson Chinook total run size, Atlas et al. 2023
+- `2_Welchetal2021` : Robertson Creek Chinook marine survival, Welch et al. 2021
