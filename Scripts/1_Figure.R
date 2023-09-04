@@ -61,7 +61,7 @@ BC_farmed <- BC_farmed %>%
 
 ## Plot the data ##
 
-png("Plots/1_Figure.png")
+tiff("Plots/1_Figure.tif")
 
 par(mfrow = c(1, 2))
 

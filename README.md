@@ -28,4 +28,4 @@ To update....
 
 # The `Plots` folder #
 
-- `1_Figure.tif`
+- `1_Figure.tif` : Depicts global and BC quantities for farmed and captured salmon over time 
