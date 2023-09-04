@@ -16,12 +16,16 @@ Here is a quick rundown of how this repo is organized:
 
 # The `Data` folder #
 
+- `1_BCSalmon.xlsx` : DFO and FAO datasets for farmed atlantic salmon and commercially captured pacific salmon in British Columbia 
+- `2_GlobalAquaculture.csv` : FAO dataset for farmed atlantic salmon produced globally 
+- `3_GlobalPacificCapture.csv` : FAO dataset for commercially caught pacific salmon  
+- `4_GlobalAtlanticCapture.csv` : FAO dataset for commercially caught atlantic salmon
+- `shapefiles` : Contains shapefiles for BC coastline, Washington, Alaska, and BC salmon farms
+
+To update....
 - `CK_TotalRun_Final.csv` : South Thompson Chinook total run size, Atlas et al. 2023
 - `2_Welchetal2021` : Robertson Creek Chinook marine survival, Welch et al. 2021
-- `shapefiles` : Contains shapefiles for BC coastline, Washington, Alaska, and BC salmon farms
 
 # The `Plots` folder #
 
 - `1_Figure.tif`
-- `2_Figure.tif`
-- `3_Figure.tif`
