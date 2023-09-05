@@ -24,12 +24,27 @@ To update...
 - `2_GlobalAquaculture.csv` : FAO dataset for farmed atlantic salmon produced globally 
 - `3_GlobalPacificCapture.csv` : FAO dataset for commercially caught pacific salmon  
 - `4_GlobalAtlanticCapture.csv` : FAO dataset for commercially caught atlantic salmon
-- `shapefiles` : Contains shapefiles for BC coastline, Washington, Alaska, and BC salmon farms
+
+- `5_SeaLiceCounts.csv` : DFO Sea Lice Counts 
+
+- `shapefiles` : Contains shapefiles for Washington, Alaska, and BC salmon farms
 
 To update....
-- `CK_TotalRun_Final.csv` : South Thompson Chinook total run size, Atlas et al. 2023
-- `2_Welchetal2021` : Robertson Creek Chinook marine survival, Welch et al. 2021
+
+- 6 Broughton pinks and chum total returns
+- 7 Fraser sockeye total returns
+- `8_RobertsonChinook.csv` : Robertson Creek chinook marine survival, Welch et al. 2021
+- `9_SThompsonChinook.csv` : South Thompson chinook total run size, Atlas et al. 2023
+- 10 Interior Fraser Coho
+- `11_CentralCoastChum.xlsx` : Central Coast chum total run size, Atlas et al. 2022
+- 12 Rivers Inlet Sockeye
+- 13 Skeena Sockeye
 
 ## The `Plots` folder ##
 
 - `1_Figure.tif` : Depicts global and BC quantities for farmed and captured salmon over time 
+
+To update....
+
+- 2_Figure 
+- 3_Figure

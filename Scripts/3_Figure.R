@@ -23,10 +23,12 @@ alaska <- project(alaska, LL.CRS)
 
 ## Load salmon data ##
 
-south_thompson <- read.csv("Data/CK_TotalRun_Final.csv") %>% 
+robertson <- read.csv("Data/8_RobertsonChinook.csv") %>% 
+  filter(Stock == "Robertson") 
+
+south_thompson <- read.csv("Data/9_SThompsonChinook.csv") %>% 
   filter(population == "south_thompson_all") %>% 
   select(year, tot_run)
-south_thompson
 
 ## Plot the map ##
 
@@ -38,11 +40,10 @@ plot(bc,
      col = "white", border=NA, xaxt="n", yaxt="n", ann=F)
 rect(par("usr")[1], par("usr")[3],
      par("usr")[2], par("usr")[4],
-     col = "lightblue"
-     ) 
+     col = "lightblue") 
 plot(bc, 
-     xlim=c(-130,-124), ylim=c(47, 56), col = "white",
-     border=NA, xaxt="n", yaxt="n", ann=F, add = T)
+     xlim=c(-130,-124), ylim=c(47, 56), 
+     col = "white", border=NA, xaxt="n", yaxt="n", ann=F, add = T)
 
 # Washington 
 plot(washington, 
@@ -58,31 +59,31 @@ box()
 
 # Now add the insets
 
+# Robertson
+
+# coords1 <- c(0.11, 0.34, # x1, x2
+#              0.25, 0.4) # y1, y2
+# 
+# par(fig = coords1, new = TRUE, mar = c(0,0,0,0))
+# 
+# plot(x = robertson$SmoltYear, y = robertson$SAR,
+#      xlab = "Year", ylab = "Marine survival, Chinook",
+#      pch = 16,
+#      cex.axis = 0.75)
+
 # South Thompson Creek 
-u <- par("usr")
-v <- c(
-  grconvertX(u[1:2], "user", "ndc"),
-  grconvertY(u[3:4], "user", "ndc")
-)
-c <- c(0.75, v[2]-0.01, 0.55, v[4]-0.01)
-par(fig=c, new=TRUE, mar=c(0,0,0,0))
+
+coords2 <- c(0.71, 0.94, # x1, x2
+            0.45, 0.6) # y1, y2
+
+par(fig = coords2, new = TRUE, mar = c(0,0,0,0))
 
 plot(x = south_thompson$year, y = south_thompson$tot_run,
      xlab = "Year", ylab = "Total run size, Chinook",
-     pch = 16)
-mtext(text = "South Thompson Creek",
-      side = 2)
+     pch = 16,
+     cex.axis = 0.75)
 
 
-# 
-# rect(par("usr")[1], par("usr")[3],
-#      par("usr")[2], par("usr")[4],
-#      col = rgb(138,185,229, maxColorValue=255)) # Color
-# plot(BC, xlim=c(-128.6,-122.3), ylim=c(48.5, 51.5), col="white", border=NA, xaxt="n", yaxt="n", ann=F, add=T)
-# plot(WA, col='grey91', border=NA, xaxt="n", yaxt="n", ann=F, add=T)
-# polygon(c(-126.72,-126.72,-126.21,-126.21),c(50.58,50.9,50.9,50.58), bg=NA, lty=1, lwd=1.5) #Broughton
-# text(-124.3, 51.7, "British\nColumbia", cex=inset.cex)
-# text(-123.8, 47.4, "Washington", cex=inset.cex)
-# box()
+
 
 
