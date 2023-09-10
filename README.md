@@ -12,11 +12,10 @@ Here is a quick rundown of how this repo is organized:
 
 - `1_Figure.R` : Figure 1 script
 
-- `3_Figure.R` : Figure 3 script
-- `QuickLook_SalmonPlots` : Notebook for a bit of data exploration
-
 To update...
 - `2_Figure.R` : Figure 2 script
+- `3_Figure.R` : Figure 3 script
+
 
 ## The `Data` folder ##
 
@@ -31,14 +30,7 @@ To update...
 
 To update....
 
-- 6 Broughton pinks and chum total returns
-- 7 Fraser sockeye total returns
-- `8_RobertsonChinook.csv` : Robertson Creek chinook marine survival, Welch et al. 2021
-- `9_SThompsonChinook.csv` : South Thompson chinook total run size, Atlas et al. 2023
-- 10 Interior Fraser Coho
-- `11_CentralCoastChum.xlsx` : Central Coast chum total run size, Atlas et al. 2022
-- 12 Rivers Inlet Sockeye
-- 13 Skeena Sockeye
+- Figure 3 csv files for salmon plots 
 
 ## The `Plots` folder ##
 
