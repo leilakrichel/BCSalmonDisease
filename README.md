@@ -11,9 +11,9 @@ Here is a quick rundown of how this repo is organized:
 ## The `Scripts` folder ## 
 
 - `1_Figure.R` : Figure 1 script
-
-To update...
 - `2_Figure.R` : Figure 2 script
+
+To do...
 - `3_Figure.R` : Figure 3 script
 
 
@@ -28,13 +28,13 @@ To update...
 
 - `shapefiles` : Contains shapefiles for Washington, Alaska, and BC salmon farms
 
-To update....
+To do....
 
 - Figure 3 csv files for salmon plots 
 
 ## The `Plots` folder ##
 
-To update....
+To do....
 
 - `1_Figure.tif` : Depicts global and BC quantities for farmed and captured salmon over time 
 

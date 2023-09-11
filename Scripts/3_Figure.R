@@ -16,19 +16,19 @@ washington <- vect("Data/shapefiles/washington.shp") # washington
 ## Project coordinate system ## 
 
 LL.CRS <- "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
-bc <- project(bc, LL.CRS) # project to lat / long? 
-bc_farms <- project(bc_farms, LL.CRS) # project to lat / long? 
-washington <- project(washington, LL.CRS) # project to lat / long? 
+bc <- project(bc, LL.CRS)  
+bc_farms <- project(bc_farms, LL.CRS) 
+washington <- project(washington, LL.CRS) 
 alaska <- project(alaska, LL.CRS)
 
 ## Load salmon data ##
 
-robertson <- read.csv("Data/8_RobertsonChinook.csv") %>% 
-  filter(Stock == "Robertson") 
-
-south_thompson <- read.csv("Data/9_SThompsonChinook.csv") %>% 
-  filter(population == "south_thompson_all") %>% 
-  select(year, tot_run)
+# robertson <- read.csv("Data/8_RobertsonChinook.csv") %>% 
+#   filter(Stock == "Robertson") 
+# 
+# south_thompson <- read.csv("Data/9_SThompsonChinook.csv") %>% 
+#   filter(population == "south_thompson_all") %>% 
+#   select(year, tot_run)
 
 ## Plot the map ##
 
@@ -73,17 +73,17 @@ box()
 
 # South Thompson Creek 
 
-coords2 <- c(0.71, 0.94, # x1, x2
-            0.45, 0.6) # y1, y2
-
-par(fig = coords2, new = TRUE, mar = c(0,0,0,0))
-
-plot(x = south_thompson$year, y = south_thompson$tot_run,
-     xlab = "Year", ylab = "Total run size, Chinook",
-     pch = 16,
-     cex.axis = 0.75)
-
-
+# coords2 <- c(0.71, 0.94, # x1, x2
+#             0.45, 0.6) # y1, y2
+# 
+# par(fig = coords2, new = TRUE, mar = c(0,0,0,0))
+# 
+# plot(x = south_thompson$year, y = south_thompson$tot_run,
+#      xlab = "Year", ylab = "Total run size, Chinook",
+#      pch = 16,
+#      cex.axis = 0.75)
+# 
+# 
 
 
 
