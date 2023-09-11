@@ -59,9 +59,15 @@ BC_farmed <- BC_farmed %>%
                     farmed_atlantic = BC_FarmedAtlantic)) %>% 
   arrange(year)
 
+years <- seq(1950, 2020, by = 10)
+
 ## Plot the data ##
 
-tiff("Plots/1_Figure.tif")
+# tiff(filename = "Plots/1_Figure.tif",
+#      width = 27, height = 15, units = "cm", 
+#      res = 200,
+#      pointsize = 10,
+#      compression = "lzw")
 
 par(mfrow = c(1, 2))
 
@@ -69,10 +75,11 @@ par(mfrow = c(1, 2))
 
 # line for farmed atlantic salmon
 plot(x = global_farmed$year, y = global_farmed$quantity,
-     ylab = "Quantity (tonnes)", xlab = "Year",
-     type = "l")
+     ylab = "Tonnes", xlab = "Year",
+     type = "l"
+     )
 points(x = global_farmed$year, y = global_farmed$quantity,
-     pch = 0)
+       pch = 0)
 
 # line for commercially-caught pacific salmon
 lines(x = global_pacificcommercial$year, y = global_pacificcommercial$quantity)
@@ -95,8 +102,8 @@ legend("topleft",
 
 # line for commercially caught pacific salmon
 plot(x = BC_commercial$year, y = BC_commercial$salmon, 
-     ylab = "Quantity (tonnes)", xlab = "Year",
-     type = "l",
+     ylab = "Tonnes", xlab = "Year",
+     type = "l", xaxt = "n",
      ylim = c(0, max(BC_farmed$farmed_atlantic)))
 points(x = BC_commercial$year, y = BC_commercial$salmon, 
        pch = 2)
@@ -106,6 +113,9 @@ lines(x = BC_farmed$year, y = BC_farmed$farmed_atlantic)
 points(x = BC_farmed$year, y = BC_farmed$farmed_atlantic, 
        pch = 0, col = "black")
 
+# add custom x-axis
+axis(1, at = seq(1950, 2020, by = 10))
+
 # legend
 legend("topleft", 
        #title = "BC quantities",
@@ -113,6 +123,6 @@ legend("topleft",
                   "Commercially-caught Pacific salmon"),
        pch = c(0, 2))
 
-dev.off()
+# dev.off()
 
 ## END ##
