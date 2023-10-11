@@ -1,0 +1,265 @@
+system,species,year,spawners,harvest,exploitation_rate,returns,marine_survival,reference
+Fraser,Sockeye,1985,2138600,11739893,0.85,13878493,NA,CSC. 2023
+Fraser,Sockeye,1986,3717444,12209994,0.77,15927438,NA,CSC. 2023
+Fraser,Sockeye,1987,1924267,5755828,0.75,7680095,NA,CSC. 2023
+Fraser,Sockeye,1988,1418299,2355252,0.62,3773551,NA,CSC. 2023
+Fraser,Sockeye,1989,3107554,15486930,0.83,18594484,NA,CSC. 2023
+Fraser,Sockeye,1990,6084826,15901111,0.72,21985937,NA,CSC. 2023
+Fraser,Sockeye,1991,3341463,9049201,0.73,12390664,NA,CSC. 2023
+Fraser,Sockeye,1992,1120172,4924845,0.76,6442239,NA,CSC. 2023
+Fraser,Sockeye,1993,5779790,17850874,0.76,23630664,NA,CSC. 2023
+Fraser,Sockeye,1994,3132629,13366013,0.77,17284640,NA,CSC. 2023
+Fraser,Sockeye,1995,1751328,2269086,0.56,4020414,NA,CSC. 2023
+Fraser,Sockeye,1996,2091305,2186683,0.48,4520445,NA,CSC. 2023
+Fraser,Sockeye,1997,4260917,11426851,0.70,16351769,NA,CSC. 2023
+Fraser,Sockeye,1998,4425000,3054000,0.28,10873000,NA,CSC. 2023
+Fraser,Sockeye,1999,1833000,561000,0.15,3643000,NA,CSC. 2023
+Fraser,Sockeye,2000,2354000,2463000,0.47,5217000,NA,CSC. 2023
+Fraser,Sockeye,2001,5278000,1604000,0.22,7213000,NA,CSC. 2023
+Fraser,Sockeye,2002,10206000,4223000,0.28,15137000,NA,CSC. 2023
+Fraser,Sockeye,2003,1986200,2313102,0.47,4873502,NA,CSC. 2023
+Fraser,Sockeye,2004,523800,2339200,0.56,4184200,NA,CSC. 2023
+Fraser,Sockeye,2005,3360800,1755300,0.25,7077100,NA,CSC. 2023
+Fraser,Sockeye,2006,4662700,5439500,0.42,12981200,NA,CSC. 2023
+Fraser,Sockeye,2007,888900,376400,0.25,1510200,NA,CSC. 2023
+Fraser,Sockeye,2008,817020,573415,0.33,1740974,NA,CSC. 2023
+Fraser,Sockeye,2009,1103603,123154,0.08,1637401,NA,CSC. 2023
+Fraser,Sockeye,2010,13142921,13600648,0.48,28264700,NA,CSC. 2023
+Fraser,Sockeye,2011,2586595,1763859,0.34,5117248,NA,CSC. 2023
+Fraser,Sockeye,2012,924747,662323,0.32,2062044,NA,CSC. 2023
+Fraser,Sockeye,2013,2572307,577582,0.13,4278959,NA,CSC. 2023
+Fraser,Sockeye,2014,5882932,11159322,0.58,19166249,NA,CSC. 2023
+Fraser,Sockeye,2015,1193165,376481,0.19,2010240,NA,CSC. 2023
+Fraser,Sockeye,2016,486888,195157,0.22,893730,NA,CSC. 2023
+Fraser,Sockeye,2017,955901,105850,0.07,1480835,NA,CSC. 2023
+Fraser,Sockeye,2018,4102342,6278574,0.57,11063603,NA,CSC. 2023
+Fraser,Sockeye,2019,302884,94341,0.17,563714,NA,CSC. 2023
+Fraser,Sockeye,2020,273600,25300,0.07,365300,NA,CSC. 2023
+Skeena/Nass,Sockeye,1982,1240011,2524932,0.67,3764943,NA,CSC. 2023
+Skeena/Nass,Sockeye,1983,974541,992590,0.50,1967131,NA,CSC. 2023
+Skeena/Nass,Sockeye,1984,1132915,1294843,0.53,2427758,NA,CSC. 2023
+Skeena/Nass,Sockeye,1985,2294962,3042606,0.57,5337569,NA,CSC. 2023
+Skeena/Nass,Sockeye,1986,812942,1029821,0.56,1842764,NA,CSC. 2023
+Skeena/Nass,Sockeye,1987,1436755,963688,0.40,2400442,NA,CSC. 2023
+Skeena/Nass,Sockeye,1988,1502651,2500045,0.62,4002697,NA,CSC. 2023
+Skeena/Nass,Sockeye,1989,1213316,1419620,0.54,2632939,NA,CSC. 2023
+Skeena/Nass,Sockeye,1990,1059700,1662274,0.61,2721973,NA,CSC. 2023
+Skeena/Nass,Sockeye,1991,1391932,2367627,0.63,3759554,NA,CSC. 2023
+Skeena/Nass,Sockeye,1992,2145286,2736339,0.65,4199469,NA,CSC. 2023
+Skeena/Nass,Sockeye,1993,1778001,2975801,0.63,4753798,NA,CSC. 2023
+Skeena/Nass,Sockeye,1994,1155789,1564157,0.58,2719943,NA,CSC. 2023
+Skeena/Nass,Sockeye,1995,1892065,3717953,0.66,5610015,NA,CSC. 2023
+Skeena/Nass,Sockeye,1996,2126456,5359957,0.72,7486410,NA,CSC. 2023
+Skeena/Nass,Sockeye,1997,1193808,2565649,0.68,3759456,NA,CSC. 2023
+Skeena/Nass,Sockeye,1998,585897,416973,0.42,1002872,NA,CSC. 2023
+Skeena/Nass,Sockeye,1999,725744,202496,0.22,928242,NA,CSC. 2023
+Skeena/Nass,Sockeye,2000,1438334,3253909,0.69,4692245,NA,CSC. 2023
+Skeena/Nass,Sockeye,2001,1609303,2845777,0.65,4384675,NA,CSC. 2023
+Skeena/Nass,Sockeye,2002,645862,726667,0.53,1372529,NA,CSC. 2023
+Skeena/Nass,Sockeye,2003,1387205,741849,0.35,2129054,NA,CSC. 2023
+Skeena/Nass,Sockeye,2004,1013958,620941,0.38,1634899,NA,CSC. 2023
+Skeena/Nass,Sockeye,2005,775583,328012,0.30,1103595,NA,CSC. 2023
+Skeena/Nass,Sockeye,2006,1273095,1602319,0.56,2875414,NA,CSC. 2023
+Skeena/Nass,Sockeye,2007,1151358,998508,0.46,2149866,NA,CSC. 2023
+Skeena/Nass,Sockeye,2008,939609,1211696,0.56,2151305,NA,CSC. 2023
+Skeena/Nass,Sockeye,2009,808959,218665,0.21,1027623,NA,CSC. 2023
+Skeena/Nass,Sockeye,2010,733493,223184,0.23,956674,NA,CSC. 2023
+Skeena/Nass,Sockeye,2011,1048233,883040,0.46,1931273,NA,CSC. 2023
+Skeena/Nass,Sockeye,2012,1230445,1029904,0.46,2260352,NA,CSC. 2023
+Skeena/Nass,Sockeye,2013,432335,47712,0.10,480045,NA,CSC. 2023
+Skeena/Nass,Sockeye,2014,1646037,1628818,0.50,3274851,NA,CSC. 2023
+Skeena/Nass,Sockeye,2015,1369348,776946,0.36,2146293,NA,CSC. 2023
+Skeena/Nass,Sockeye,2016,1022181,675656,0.40,1697839,NA,CSC. 2023
+Skeena/Nass,Sockeye,2017,953880,100278,0.10,1054160,NA,CSC. 2023
+Skeena/Nass,Sockeye,2018,1280279,490214,0.28,1770491,NA,CSC. 2023
+Skeena/Nass,Sockeye,2019,618889,203516,0.25,822410,NA,CSC. 2023
+Skeena/Nass,Sockeye,2020,1331079,357169,0.21,1688248,NA,CSC. 2023
+Skeena/Nass,Sockeye,2021,1108628,618255,0.36,1726883,NA,CSC. 2023
+Robertson-creek,Chinook,1981,NA,NA,NA,NA,0.018814,Welch-et-al.2020
+Robertson-creek,Chinook,1985,NA,NA,NA,NA,0.016166,Welch-et-al.2020
+Robertson-creek,Chinook,1982,NA,NA,NA,NA,0.013371,Welch-et-al.2020
+Robertson-creek,Chinook,1983,NA,NA,NA,NA,0.006735,Welch-et-al.2020
+Robertson-creek,Chinook,1984,NA,NA,NA,NA,0.0005,Welch-et-al.2020
+Robertson-creek,Chinook,1980,NA,NA,NA,NA,0.024547,Welch-et-al.2020
+Robertson-creek,Chinook,2007,NA,NA,NA,NA,0.002878,Welch-et-al.2020
+Robertson-creek,Chinook,2008,NA,NA,NA,NA,0.016261,Welch-et-al.2020
+Robertson-creek,Chinook,1979,NA,NA,NA,NA,0.027194,Welch-et-al.2020
+Robertson-creek,Chinook,2010,NA,NA,NA,NA,0.001287,Welch-et-al.2020
+Robertson-creek,Chinook,2011,NA,NA,NA,NA,0.006832,Welch-et-al.2020
+Robertson-creek,Chinook,2012,NA,NA,NA,NA,0.000887,Welch-et-al.2020
+Robertson-creek,Chinook,2009,NA,NA,NA,NA,0.0039,Welch-et-al.2020
+Robertson-creek,Chinook,1974,NA,NA,NA,NA,0.013108,Welch-et-al.2020
+Robertson-creek,Chinook,1975,NA,NA,NA,NA,0.077719,Welch-et-al.2020
+Robertson-creek,Chinook,1976,NA,NA,NA,NA,0.039583,Welch-et-al.2020
+Robertson-creek,Chinook,1977,NA,NA,NA,NA,0.049247,Welch-et-al.2020
+Robertson-creek,Chinook,1978,NA,NA,NA,NA,0.012471,Welch-et-al.2020
+Robertson-creek,Chinook,1992,NA,NA,NA,NA,0.004319,Welch-et-al.2020
+Robertson-creek,Chinook,1993,NA,NA,NA,NA,0.000112,Welch-et-al.2020
+Robertson-creek,Chinook,1994,NA,NA,NA,NA,0.008312,Welch-et-al.2020
+Robertson-creek,Chinook,1995,NA,NA,NA,NA,0.016499,Welch-et-al.2020
+Robertson-creek,Chinook,1996,NA,NA,NA,NA,0.001542,Welch-et-al.2020
+Robertson-creek,Chinook,1997,NA,NA,NA,NA,0.000567,Welch-et-al.2020
+Robertson-creek,Chinook,1998,NA,NA,NA,NA,0.00026,Welch-et-al.2020
+Robertson-creek,Chinook,1986,NA,NA,NA,NA,0.015188,Welch-et-al.2020
+Robertson-creek,Chinook,1987,NA,NA,NA,NA,0.033984,Welch-et-al.2020
+Robertson-creek,Chinook,1988,NA,NA,NA,NA,0.035412,Welch-et-al.2020
+Robertson-creek,Chinook,1989,NA,NA,NA,NA,0.047568,Welch-et-al.2020
+Robertson-creek,Chinook,1990,NA,NA,NA,NA,0.037172,Welch-et-al.2020
+Robertson-creek,Chinook,1991,NA,NA,NA,NA,0.020615,Welch-et-al.2020
+Robertson-creek,Chinook,2005,NA,NA,NA,NA,0.002287,Welch-et-al.2020
+Robertson-creek,Chinook,2006,NA,NA,NA,NA,0.011488,Welch-et-al.2020
+Robertson-creek,Chinook,2002,NA,NA,NA,NA,0.025371,Welch-et-al.2020
+Robertson-creek,Chinook,1999,NA,NA,NA,NA,0.013071,Welch-et-al.2020
+Robertson-creek,Chinook,2000,NA,NA,NA,NA,0.018807,Welch-et-al.2020
+Robertson-creek,Chinook,2001,NA,NA,NA,NA,0.014527,Welch-et-al.2020
+Robertson-creek,Chinook,2014,NA,NA,NA,NA,0.01099,Welch-et-al.2020
+Robertson-creek,Chinook,2003,NA,NA,NA,NA,0.010256,Welch-et-al.2020
+Robertson-creek,Chinook,2004,NA,NA,NA,NA,0.018212,Welch-et-al.2020
+Robertson-creek,Chinook,2013,NA,NA,NA,NA,0.017913,Welch-et-al.2020
+Robertson-creek,Chinook,2015,NA,NA,NA,NA,0.011201,Welch-et-al.2020
+South-Thompson,Chinook,1979,6000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1980,3000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1981,6000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1982,3500,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1983,3000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1984,6000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1985,7000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1986,6500,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1987,8500,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1988,12000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1989,10000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1990,6000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1991,8000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1992,12000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1993,4000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1994,2118,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1995,5500,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1996,21600,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1997,27000,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1998,41306,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,1999,13954,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2000,10806,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2001,22610,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2002,43804,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2003,38178,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2004,29687,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2005,61837,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2006,100384,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2007,45352,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2008,57280,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2009,45036,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2010,58851,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2011,84102,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2012,32952,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2013,63769,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2014,29107,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2015,96205,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2016,62912,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2017,43532,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2018,18340,NA,NA,NA,NA,Atlas-et-al.2023
+South-Thompson,Chinook,2019,94589,NA,NA,NA,NA,Atlas-et-al.2023
+North-Thompson,Coho,1984,41396,88372,0.68,129768,0.049,Arbeider-et-al.2020
+North-Thompson,Coho,1985,17986,38396,0.68,56382,0.049,Arbeider-et-al.2020
+North-Thompson,Coho,1986,30692,58789,0.66,89481,0.049,Arbeider-et-al.2020
+North-Thompson,Coho,1987,31262,36259,0.54,67521,0.036,Arbeider-et-al.2020
+North-Thompson,Coho,1988,35039,86624,0.71,121663,0.055,Arbeider-et-al.2020
+North-Thompson,Coho,1989,24556,44616,0.65,69172,0.056,Arbeider-et-al.2020
+North-Thompson,Coho,1990,17551,49183,0.74,66734,0.061,Arbeider-et-al.2020
+North-Thompson,Coho,1991,12243,25661,0.68,37904,0.04,Arbeider-et-al.2020
+North-Thompson,Coho,1992,15929,70174,0.82,86103,0.048,Arbeider-et-al.2020
+North-Thompson,Coho,1993,6552,46287,0.88,52839,0.038,Arbeider-et-al.2020
+North-Thompson,Coho,1994,14898,11377,0.43,26275,0.035,Arbeider-et-al.2020
+North-Thompson,Coho,1995,12463,15991,0.56,28454,0.01,Arbeider-et-al.2020
+North-Thompson,Coho,1996,5923,29974,0.84,35897,0.024,Arbeider-et-al.2020
+North-Thompson,Coho,1997,8518,5798,0.41,14316,0.011,Arbeider-et-al.2020
+North-Thompson,Coho,1998,9786,737,0.07,10523,0.012,Arbeider-et-al.2020
+North-Thompson,Coho,1999,10696,1058,0.09,11754,0.02,Arbeider-et-al.2020
+North-Thompson,Coho,2000,8054,301,0.04,8355,0.032,Arbeider-et-al.2020
+North-Thompson,Coho,2001,27238,2082,0.07,29320,0.041,Arbeider-et-al.2020
+North-Thompson,Coho,2002,22083,1868,0.08,23951,0.034,Arbeider-et-al.2020
+North-Thompson,Coho,2003,7211,1068,0.13,8279,0.013,Arbeider-et-al.2020
+North-Thompson,Coho,2004,10661,1607,0.13,12268,0.012,Arbeider-et-al.2020
+North-Thompson,Coho,2005,4518,675,0.13,5193,0.008,Arbeider-et-al.2020
+North-Thompson,Coho,2006,3670,381,0.09,4051,0.003,Arbeider-et-al.2020
+North-Thompson,Coho,2007,24500,3090,0.11,27590,0.012,Arbeider-et-al.2020
+North-Thompson,Coho,2008,3849,418,0.10,4267,0.006,Arbeider-et-al.2020
+North-Thompson,Coho,2009,9631,1251,0.12,10882,0.011,Arbeider-et-al.2020
+North-Thompson,Coho,2010,12159,1411,0.10,13570,0.01,Arbeider-et-al.2020
+North-Thompson,Coho,2011,8803,1269,0.13,10072,0.014,Arbeider-et-al.2020
+North-Thompson,Coho,2012,20058,2530,0.11,22588,0.013,Arbeider-et-al.2020
+North-Thompson,Coho,2013,16271,3145,0.16,19416,0.01,Arbeider-et-al.2020
+North-Thompson,Coho,2014,5244,2445,0.32,7689,0.021,Arbeider-et-al.2020
+North-Thompson,Coho,2015,3178,688,0.18,3866,0.008,Arbeider-et-al.2020
+North-Thompson,Coho,2016,16914,1332,0.07,18246,0.014,Arbeider-et-al.2020
+North-Thompson,Coho,2017,11908,1279,0.10,13187,0.011,Arbeider-et-al.2020
+Owikeno,Sockeye,1948,135000,905726,0.87,1040725.625,NA,Adams-et-al.2021
+Owikeno,Sockeye,1949,250500,1080806,0.81,1331305.671,NA,Adams-et-al.2022
+Owikeno,Sockeye,1950,666000,3271817,0.83,3937816.551,NA,Adams-et-al.2023
+Owikeno,Sockeye,1951,493500,2248175,0.82,2741675,NA,Adams-et-al.2024
+Owikeno,Sockeye,1952,915000,1952548,0.68,2867548,NA,Adams-et-al.2025
+Owikeno,Sockeye,1953,840000,3129945,0.79,3969945.334,NA,Adams-et-al.2026
+Owikeno,Sockeye,1954,275400,1187462,0.81,1462861.995,NA,Adams-et-al.2027
+Owikeno,Sockeye,1955,346500,1197850,0.78,1544350.138,NA,Adams-et-al.2028
+Owikeno,Sockeye,1956,348000,1077536,0.76,1425535.567,NA,Adams-et-al.2029
+Owikeno,Sockeye,1957,278700,378143,0.58,656843.3395,NA,Adams-et-al.2030
+Owikeno,Sockeye,1958,408000,1023646,0.72,1431645.734,NA,Adams-et-al.2031
+Owikeno,Sockeye,1959,591000,448256,0.43,1039256.092,NA,Adams-et-al.2032
+Owikeno,Sockeye,1960,137700,518562,0.79,656261.9977,NA,Adams-et-al.2033
+Owikeno,Sockeye,1961,193500,845846,0.81,1039346.363,NA,Adams-et-al.2034
+Owikeno,Sockeye,1962,528000,1043812,0.66,1571812.067,NA,Adams-et-al.2035
+Owikeno,Sockeye,1963,1500000,459888,0.23,1959888.168,NA,Adams-et-al.2036
+Owikeno,Sockeye,1964,805500,1054391,0.57,1859891,NA,Adams-et-al.2037
+Owikeno,Sockeye,1965,135225,645359,0.83,780584,NA,Adams-et-al.2038
+Owikeno,Sockeye,1966,222000,528497,0.70,750497,NA,Adams-et-al.2039
+Owikeno,Sockeye,1967,437250,1103138,0.72,1540388,NA,Adams-et-al.2040
+Owikeno,Sockeye,1968,855000,2728652,0.76,3583652,NA,Adams-et-al.2041
+Owikeno,Sockeye,1969,84750,729830,0.90,814580,NA,Adams-et-al.2042
+Owikeno,Sockeye,1970,84750,21019,0.20,105769,NA,Adams-et-al.2043
+Owikeno,Sockeye,1971,269400,403738,0.60,673138,NA,Adams-et-al.2044
+Owikeno,Sockeye,1972,186000,379856,0.67,565856,NA,Adams-et-al.2045
+Owikeno,Sockeye,1973,1372500,1762156,0.56,3134656,NA,Adams-et-al.2046
+Owikeno,Sockeye,1974,484500,120574,0.20,605074,NA,Adams-et-al.2047
+Owikeno,Sockeye,1975,409500,43031,0.10,452531,NA,Adams-et-al.2048
+Owikeno,Sockeye,1976,190508,614193,0.76,804701,NA,Adams-et-al.2049
+Owikeno,Sockeye,1977,187800,660654,0.78,848454,NA,Adams-et-al.2050
+Owikeno,Sockeye,1978,420000,578908,0.58,998908,NA,Adams-et-al.2051
+Owikeno,Sockeye,1979,196500,28828,0.13,225328,NA,Adams-et-al.2052
+Owikeno,Sockeye,1980,211500,9185,0.04,220685,NA,Adams-et-al.2053
+Owikeno,Sockeye,1981,444000,99506,0.18,543506,NA,Adams-et-al.2054
+Owikeno,Sockeye,1982,699000,44680,0.06,743680,NA,Adams-et-al.2055
+Owikeno,Sockeye,1983,481500,37688,0.07,519188,NA,Adams-et-al.2056
+Owikeno,Sockeye,1984,299100,55679,0.16,354779,NA,Adams-et-al.2057
+Owikeno,Sockeye,1985,652275,185543,0.22,837818,NA,Adams-et-al.2058
+Owikeno,Sockeye,1986,555000,338441,0.38,893441,NA,Adams-et-al.2059
+Owikeno,Sockeye,1987,459600,399854,0.47,859454,NA,Adams-et-al.2060
+Owikeno,Sockeye,1988,256500,373018,0.59,629518,NA,Adams-et-al.2061
+Owikeno,Sockeye,1989,127800,64746,0.34,192546,NA,Adams-et-al.2062
+Owikeno,Sockeye,1990,277500,235178,0.46,512678,NA,Adams-et-al.2063
+Owikeno,Sockeye,1991,237000,169219,0.42,406219,NA,Adams-et-al.2064
+Owikeno,Sockeye,1992,271500,509157,0.65,780657,NA,Adams-et-al.2065
+Owikeno,Sockeye,1993,201000,85270,0.30,286270,NA,Adams-et-al.2066
+Owikeno,Sockeye,1994,78000,41702,0.35,119702,NA,Adams-et-al.2067
+Owikeno,Sockeye,1995,109500,49582,0.31,159082,NA,Adams-et-al.2068
+Owikeno,Sockeye,1996,45600,2697,0.06,48297,NA,Adams-et-al.2069
+Owikeno,Sockeye,1997,249300,1927,0.01,251227,NA,Adams-et-al.2070
+Owikeno,Sockeye,1998,35900,2161,0.06,38061,NA,Adams-et-al.2071
+Owikeno,Sockeye,1999,3600,657,0.15,4257,NA,Adams-et-al.2072
+Owikeno,Sockeye,2000,21100,200,0.01,21300,NA,Adams-et-al.2073
+Owikeno,Sockeye,2001,31500,1600,0.05,33100,NA,Adams-et-al.2074
+Owikeno,Sockeye,2002,100000,1397,0.01,101397,NA,Adams-et-al.2075
+Owikeno,Sockeye,2003,139000,1159,0.01,140159,NA,Adams-et-al.2076
+Owikeno,Sockeye,2004,115000,1551,0.01,116551,NA,Adams-et-al.2077
+Owikeno,Sockeye,2005,150000,1413,0.01,151413,NA,Adams-et-al.2078
+Owikeno,Sockeye,2006,108000,1216,0.01,109216,NA,Adams-et-al.2079
+Owikeno,Sockeye,2007,100000,1251,0.01,101251,NA,Adams-et-al.2080
+Owikeno,Sockeye,2008,83000,4278,0.05,87278,NA,Adams-et-al.2081
+Owikeno,Sockeye,2009,78500,2218,0.03,80718,NA,Adams-et-al.2082
+Owikeno,Sockeye,2010,100000,2840,0.03,102840,NA,Adams-et-al.2083
+Owikeno,Sockeye,2011,408000,898,0.00,408898,NA,Adams-et-al.2084
+Owikeno,Sockeye,2012,150000,1616,0.01,151616,NA,Adams-et-al.2085
+Owikeno,Sockeye,2013,192450,1098,0.01,193548,NA,Adams-et-al.2086
+Owikeno,Sockeye,2014,118500,2506,0.02,121006,NA,Adams-et-al.2087
+Owikeno,Sockeye,2015,160000,865,0.01,160865,NA,Adams-et-al.2088
+Owikeno,Sockeye,2016,247200,2500,0.01,249700,NA,Adams-et-al.2089
+Owikeno,Sockeye,2017,70721,2175,0.03,72896,NA,Adams-et-al.2090
+Owikeno,Sockeye,2018,173600,1040,0.01,174639.5954,NA,Adams-et-al.2091
